@@ -1,1 +1,14 @@
-{}
+{
+  "custom-object": {
+    "custom-line": "tetst",
+    "custom-text": "asdfasdfasdfasdfasdf"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "asdfasdfasdfasdf234234234"
+    },
+    {
+      "custom-list-item": "asdfasdf"
+    }
+  ]
+}
